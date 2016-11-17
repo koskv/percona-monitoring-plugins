@@ -1,4 +1,4 @@
-percona-zabbix-templates (1.1.6.1) UNRELEASED; urgency=medium
+percona-monitoring-plugins (1.1.6.1) UNRELEASED; urgency=medium
 
   * Initial release. (Closes: #XXXXXX)
 
