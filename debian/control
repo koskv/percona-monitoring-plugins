@@ -1,4 +1,4 @@
-Source: percona-zabbix-templates
+Source: percona-monitoring-plugins
 Section: utils
 Priority: optional
 Maintainer: Percona
