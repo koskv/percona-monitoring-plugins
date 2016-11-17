@@ -3,6 +3,7 @@ Section: utils
 Priority: optional
 Maintainer: Percona
 Homepage: http://www.percona.com/software/percona-monitoring-plugins
+
 Package: percona-zabbix-templates
 Version: 1.1.6-1
 Architecture: all
